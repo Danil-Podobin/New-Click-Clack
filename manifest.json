@@ -1,0 +1,10 @@
+{
+	"id": "new-click-clack",
+	"name": "New Click Clack",
+	"version": "0.1.0",
+	"minAppVersion": "1.0.0",
+	"description": "Simulates typewriter / mechanical keyboard sounds.",
+	"author": "Acylation",
+	"authorUrl": "https://github.com/Danil-Podobin",
+	"isDesktopOnly": false
+}
